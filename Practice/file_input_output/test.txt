@@ -1,0 +1,4 @@
+This is a test txt.
+There are some data you want.
+You can read or write this file.
+Good luck!
